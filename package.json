@@ -1,0 +1,19 @@
+{
+  "name": "drc-w-ps",
+  "version": "1.0.0",
+  "description": "Learning REact best practices w P.Kellner from PS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^10.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
